@@ -165,3 +165,9 @@ Tags: Hostile; Stamina 3; Range 10; Radius 2; Suffer Burning 2d12; Progress 10;
 You conjure a ball of fire in your palms and blast it at a point in range, engulfing all targets in the
 blast radius in fire.
 
+# Tags
+## Items
+
+### Magical
+
+the item can be used to channel magic.

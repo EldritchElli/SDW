@@ -138,8 +138,7 @@ Base Value: 650qt
 Reference: Desert Eagle and Auto Mag Pistol
 
 **Bolt Action Pistol**
-Tags: One-Handed; Loud; Burst 1; Magazine 6; Range 30; Damage 10; Recoil 3; Dislodge; Light;
-Concealed;
+Tags: One-Handed; Loud; Burst 1; Magazine 6; Range 30; Damage 10; Recoil 3; Dislodge; Light; Concealed;
 Base Value: 650qt
 Reference: Remington XP-100 and Lugerman "Obrez"
 

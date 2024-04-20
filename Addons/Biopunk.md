@@ -87,3 +87,11 @@ Tags: Mutagen; Debility;
 Base Value: 700qt
 Applying this mutagen removes all other Mutagen from your body.
 
+# Tags
+
+## Items
+
+### Mutagen
+
+this item is a special type of consumable that modifiers your body in some way. you can only be
+affected by one Mutagen at a time.

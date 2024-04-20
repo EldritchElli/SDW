@@ -86,13 +86,11 @@ Complex Checks require you to score a 11 or higher to succeed;
 
 Stress represents a Character's the mental Fatique from life. A character has 0 Stress at Character
 
-
 Creation. A Character can choose to gain 1 Stress to roll additional dice equal to one of your
 Attributes on a Skill Check as your game master which they think applies most. Stress slowly
 recovers when performing specific downtime tasks. when you gain 15 Stress, your character has a
 mental breakdown and will flee regardless if that results in their death, you lose control of You
-Character and must retire them. Mutagen's and Cyberware reduce your Stress Temporarily after
-they are equipped.
+Character and must retire them.
 
 ## Items
 
@@ -106,9 +104,28 @@ the price of items as they see fit so long as it is within reason. The Game mast
 reason as to why the items are priced as such if the Players Enquire about it, such as discounts or
 Taxes.
 
+### Technology Level
+Items are seperated into Levels that describe the scocities highest
+achievements, from Technology Level 1 (the Stone Age) to Technology Level 11
+(The Robotic Age).
+
+|Tech Level | age |
+|:---------:|:---:|
+|1          | Stone Age   |
+|2          | Bronze Age  |
+|3          | Iron Age    |
+|4          | Medieval Age   |
+|5          | Age of Sailing |
+|6          | Industrial Revolution |
+|7          | Mechanised Age |
+|8          | Nuclear Age    |
+|9          | Digital Age    |
+|10         | microtech age  |
+|11         | Space Age    |
+
 ## Money
 
-The money or Quartz (qtz or qt for short) is used to buy items, and train.
+The money or is used to buy items, and train.
 
 ## Tags
 
@@ -127,16 +144,7 @@ modes in the Modes Section.
 
 Effects are temporary changes that occur to your Attributes; these changes can impact you
 positively or negatively. Effects do not compound on each other. If you have two or more instances
-
-
-of an effect, you take the more impactful effect. More Effects and Status Effects rules can be found
-in the Effects section.
-
-### Status Effects
-
-Status Effects are named effects that are commonly used inside more complex effects. Status
-Effects have a Severity, this is specified by the number beside the Effects Name, e.g. 2 is the
-Severity of the effect Burning 2.
+of an effect, you take the more impactful effect.
 
 ## Damage
 
@@ -253,7 +261,7 @@ body. More rules about Augmentations can be found in the Augmentation section.
 
 Character Creation is a process undertaken by Players to create their Characters.
 The proccess of making a character is simple and doesn't take too long. follow the instructions
-given in this section to create a character.
+given in each subsequent section to create a character.
 
 ## Base Statistics and Items
 
@@ -267,131 +275,9 @@ Choose the Rank for each of your Skills from the following Array: (3, 2, 2, 1, 1
 
 Each Character has a base of 20 Stamina.
 
-Choose 8 Progression items, abilities, or Spells to unlock.
-
 in addition, you gain the following Items:
 
-Money: 2000qt; 1 Set of clothing; 5 rations.
-
-## Ancestry
-
-An ancestry determines your Species and general appearence. Species aren't defined by cultures
-but by genetics as they have multiple variations on how they live their lives. Choose any 1 from the
-list below.
-
-### Harpies
-
-
-Harpies (or Anhae in Lacrosian) are medium bipeds covered in coloured feathers with tallons for
-hands and a with bird skull glowing as their head, anhae eyes glow green or blue. With bone like
-halos jutting out of their heads. anhae grow this halo on the back of their head. As they age to
-adolescence the halo detaches from their skull and floats around their head.
-
-**Ancestry Bonuses**
-Harpies gain the following bonuses from their genetics.
-Stamina Bonus: 0
-Maximum Wounds: 3
-Speed: 4
-Life Span: 45 years
-
-**Limited Flight**
-Tags: Stamina 1; Move Speed; Debility;
-you Move through the air, you must end your Move on an object or on the ground. You are unable
-to wear Cumbersome Armour. Whenever you make Ranged Attacks, you are moved away from the
-target equal 1 metre for each Success you score on the Attack.
-
-### Demons
-
-Demons (or Fali in Lacrosian) are medium sized, biped creatures with sharp claws, with horns of
-various shape and size and long hairless tail. Demons are natural hunters and carnivores. Demons
-have light Yellow eyeballs with cat like pulps and faint bioluminescent irises; in sunlight their irises
-appear fully grey while at night take on red or purple colour.
-
-**Ancestry Bonuses**
-Stamina Bonus: 6
-Maximum Wounds:
-Speed: 4
-Life Span: 100 years
-
-**Abyssal Strike**
-Tags: Hostile; Alter Attack; Suffer Burning 2;
-you embrace your demon nature coiling flames around your Weapon.
-
-
-### Elves
-
-Elves (or Malaki in Lacrosian) are small four legged creatures, Elves have strong hind legs allowing
-them stand vertically at the cost of mobility. Elves take on features or local wildlife and adapt this
-typically makes them resemble vegetation, fungi and animals. Elves tend to live in wetlands, forests
-and mountainous areas. Elves are highly magically inclined and tend to be less emotive.
-
-**Ancestry Bonuses**
-Stamina Bonus: 3
-Maximum Wounds: 4
-Speed 3;
-Life Span: 120 years
-
-**Crawling**
-Tags: Stamina 1; Move 6; Enhancment; Debility;
-you drop prone then You move; if you end your movement behind cover or in foliage, you become
-hidden until the start of your next turn.
-
-### Humans
-
-Humans (or Enfari in Lacrosian) are are 4 eyed bipeds that have eyes two eyes on their chest or
-their back. Humans have tricoloured skin that appears in regular patherns or patches all over their
-skin. the colours that appear most are desaturated browns and blues. Humans are tall and that
-have four fingers, Humans have a weak link to magic making them very emotive. Humans are short
-lived creatures that tend to value their time.
-
-**Ancestry Bonuses**
-Stamina Bonus: 6
-Maximum Wounds: 6
-Speed: 4
-Life Span: 60 Years
-
-**Void Expulsion**
-Tags: Stamina 2; Range 2; Damage 2; Hostile;
-you cause all creatures within Range to take Damage.
-
-
-### Android
-
-Androids are manufactured robots that have gained sentinece due to the evolution of AI. Androids
-do not have a culture and typically reflect the societal norms they where brought up in, Androids
-aren't void of emotions like many might believe Androids can be made to resemble different
-species.
-
-**Ancestry Bonuses**
-Stamina Bonus: 8
-Maximum Wounds: 2
-Speed: 5
-Life Span: 30 Years
-You cannot consume Potions or gain Mutagens.
-
-**Metalic Reconstituion**
-Tags: Stamina 2; Suffer Burning 3; Debility;
-once per Day, you activate your repair subroutine, you may use this in combat gaining the benefits
-near instantly, but overheating in the proccess.
-
-### Mixed Ancestry
-
-You are a mix of two different Ancestries Choose two different Ancestries other than this one, you
-cannot choose Android as one of your Ancestry choices.
-
-**Ancestry Bonuses**
-Stamina Bonus: Take the average of both Stamina Bonus value from your chosen Ancestries (round
-up).
-Maximum Wounds: Take the average of both Wound values form your chosen Ancestries (round
-down).
-Speed: Take the average of both Speed values form your chosen Ancestries (round down).
-Life Span: Take the average of the two Life Spans from your Chosen Ancestries (round up) and
-subtract 10 years from it.
-
-**Adaptation**
-You Choose one of your Ancestries abilities that you are given at birth. you cannot change this
-Choice unless the Game master allows you to for Roleplay or Story reasons.
-
+Money: 2000; 1 Set of clothing; 5 rations.
 
 ## Backstory
 
@@ -405,137 +291,53 @@ campaign. Your backstory doesn't give you any mechanical advantages or disadvant
 
 Below is an list of items and item categories each category describes what kinds of items are in it.
 
-## Progression Items
+## Technology Level 1 (Stone Age)
+### Consumables
 
-Progression items unlock access for you to purchase and use specialized items such as weapons
-consumeables and whatnot. Progression items normally cannot be purchased and you must Train
-to gain them however Progression items can be forged on the Black Market for a Fee, if you buy a
-forged Item, the Item gains the Illigal Tag. refer to the Forged Price to determine the item's cost at
-character creation.
+#### Food
 
-if you attempt to use an item, action or activity unlocked by a Forged Progression Items in Combat
-Mode, it takes you 2 Additional Stamina to use. If the item, action or activity requires you to roll a
-check as part of using it, you automatically score 1 fumble for that check.
+**Berries**
 
-### Certificates
-
-A Certificate is a document that allows you to perform specific tasks with competence.
-
-**Digital Passport and ID**
-Tags: Weightless; Progress 3;
-Forged Price: 750qt
-This allows you to purchase all items, excluding Weapons. you can avail of all services.
-
-**Merchent**
-Tags: Weightless; Progress 2;
-Forged Price: 500qt
-you have studied commerce and the economy allowing you to sell items in cities and towns.
+Tags: Weightless; Charges 1; Material;
 
 
-**Shaman**
-Tags: Weightless; Progress 7;
-Forged Price: 1500qt
-You have studied biology and can implant Cybernetics and Mutagens into yourself and others.
 
-**Mercinary**
-Tags: Weightless; Progress 5;
-Forged Price: 1250qt
-You are allowed to take on public Gigs and Trade items acquired from Gigs.
+**Fruits**
 
-**Production**
-Tags: Weightless; Progress 5;
-Forged Price: 500qt
-You have studied Production allowing you to Craft and Repair items.
-
-**Computing**
-Tags: Weightless; Progress 3;
-Forged Price: 500qt
-You have studied hacking and computer logic allowing you to create and upload Injections.
-
-**Basic Magic**
-Tags: Weightless; Progress 4;
-Forged Price: 500qt
-You study magic for a while allowing you to cast Spells equal to or lower than Rank 1.
-
-**Advanced Magic**
-Tags: Weightless; Progress 6;
-Requires: Basic Magic;
-Forged Price: 800qt
-You emass knowledge of magic allowing you to cast Spells equal to or lower than Rank 2.
-
-**Complex Magic**
-Tags: Weightless; Progress 8;
-Requires: Advanced Magic;
-Forged Price: 1000qt
-You progressed your magical knowledge allowing you to cast Spells equal to or lower than Rank 3.
-
-**Complete Magic**
-Tags: Weightless; Progress 10;
-Requires: Complex Magic;
-Forged Price: 1500qt
-you have mastered magic allowing you to cast Spells equal to or lower than Rank 4.
-
-### License
-
-A licence is a small plastic card that you keep on yourself, that allows you to legally use certain
-items.
-
-**Swordsmanship**
-Tags: Weightless; Progress 4;
-Forged Price: 800qt
-you have learned to wield the weapons of ancient times
-You can use and purchase any of the following weapons:
-Staff, Sword, Club, Dagger, Warhammer, Axe, Spear, and Longspear.
-
-**Archery**
-Tags: Weightless; Progress 4;
-Forged Price: 800qt
-You have trained in archery and learned how to use bows and crossbows.
-You can use and perchase any of the following items:
-One-Handed Crossbow, Crossbow, Longbow, and Shortbow.
+Tags:
 
 
-**Small Firearms**
-Tags: Weightless; Progress 4;
-Forged Price: 800qt
-you have trained on a shooting range with small firearms allowing you to use Pistols.
-You can use and purchase any of the following items:
-Standard Issue Pistol, Machine Pistol, Heavy Pistol, and Bolt Action Pistol.
 
-**Marksmenship**
-Tags: Weightless; Progress 6;
-Requires: Firearms Licence;
-Forged Price: 1000qt
-Allows you to use most SMGs and Assualt Rifles.
-You can use and purchase any of the following items: Submachine gun, Assault Rifle, Battle Rifle,
-and Personal Defence Rifle.
+## Technology Level 2 (Bronze Age)
 
-**Advanced Marksmenship**
-Tags: Weightless; Progress 8;
-Requires: Marksmenship;
-Forged Price: 1200qt
-Allows you to use more specialized Submachine guns, Assault Rifles and Shotguns.
-You can use and purchase any of the following items:
-Double-Barrel Shotgun, Sawn-off Shotgun, Single-shot Shotgun, Automatic Shotgun, Semi-
-Automatic Shotgun, Marksman Rifle, Presision rifle, and Military-Grade Submachine Gun.
 
-**Grenades**
-Tags: Weightless; Progress 5;
-Forged Price: 600qt;
-You can use and purchase Bombs;
+## Technology Level 3 (Iron Age)
 
-**Demolition**
 
-Tags: Weightless; Progress 8;
-Requires: Marksmenship
-Forged Price: 800qt
-You can use and Purchase all Explosive Weapons.
+## Technology Level 4 (Medieval Age)
 
-**Complete Marksmenship**
-Tags: Weightless; Progress 5;
-Requires: Advanced Marksmenship; Demolition;
-Forged Price: 1500qt
-Allows you to use and purchase all Ranged Weapons.
+
+## Technology Level 5 (Age of Sailing)
+
+
+## Technology Level 6 (Industrial Revolution)
+
+
+## Technology Level 7 (Mechanised Age)
+
+
+## Technology Level 8 (Nuclear Age)
+
+
+## Technology Level 9 (Digital Age)
+
+
+
+## Technology Level 10 (Microtechnology age)
+
+
+## Technology Level 11 (Space Age)
+
 
 ## Consumables
 
@@ -547,20 +349,25 @@ Charges that allow you to use them a number of times before expiring.
 food are consumables that provide nurishment to creatures.
 
 **Rations**
+
 Tags: Light; Charges 3; Cleanse Hungry;
+
 Base Value: 50qt
 
 **Organic Meal**
-Tags: Charges 1; Cleanse Hungry; Enhancement;
+
+Tags: Charges 1; Cleanse Hungry;
+
 Base Value: 250qt
+
 consuming this food reduces your Stress by 1.
 
 **Blood**
+
 Tags: Charge 1; Cleanse Hungry; Duration 1 Hour; Enhancement;
 Base Value: 300qt
+
 Only creatures with Vampire's Kiss can consume blood and gain the benefits of it. Increase your
-
-
 Melee and Ballistics Skills by 1 for a time.
 
 ### Ammo
@@ -574,22 +381,32 @@ medical items are used to recover from conditions and to bolster oneself instant
 **Medkit**
 
 Tags: Two-Handed; Check Advanced Psyche; Cleanse Varies;
+
 Base Value: 400qt
+
 You attempt a Check to regain Stamina or remove conditions, each success you score you can
 choose to regain 1 Stamina or to Cleanse a condition.
 
 **Bandage**
+
 Tags: One-Handed; Cleanse Bleeding;
+
 you apply a bandage to yourself staunching the bleeding.
 
 **Antidote**
+
 Tags: One-Handed; Cleanse Poisoned;
+
 Base Value: 100qt
+
 you consume this antidote to recover from poisonous substances.
 
 **Burn Salve**
+
 Tags: One-Handed; Cleanse Burning;
+
 Base Value: 100qt
+
 you apply this salve to recover from burning.
 
 
@@ -625,7 +442,7 @@ choose an active ability, spell, or activity you have performed, it ceases to be
 
 ### Make noise
 
-Tags: Stamina 1; Loud;
+Tags: Stamina 1; Range Varies; Loud;
 
 to make a audible noise that will cause creatures to investigate your current location.
 
@@ -638,7 +455,7 @@ the Game Master. rollplay out the interaction.
 
 ### Assist
 
-Tags: Range 1; Stamina 1; Research; Enhancment; Roleplay;
+Tags: Range Varies; Stamina 1; Roleplay;
 
 you attempt to assist a creature. Roleplay the interaction, they add 1 additional dice to their check
 if you successfully help out.
@@ -650,8 +467,10 @@ creatures. typically the Players goal is to primarily survive the encounter by a
 however more nuanced goals may be set by the Game Master, such as protecting a structure or
 holding off intruders while a portal opens. once the threat is dealt with, you Switch Into Downtime
 or Investigation Mode.
+
 Everything happens at the same time. Creatures can spend 5 Stamina to perform actions on each
 turn.
+
 at the start if each Round, each Creature specifies what its going to be doing and reduce their
 Stamina by the specified cost. after everyone has specified what they are going to be doing, the
 game master evalulates the scene, allowing people to roll checks and damage if nessisary.
@@ -661,13 +480,17 @@ game master evalulates the scene, allowing people to roll checks and damage if n
 Below is a list of commonly used actions in combat mode.
 
 **Improvise**
+
 Tags: Stamina Varies; Roleplay;
+
 Discribe how you would like to do something, Roleplay out the interaction if needed, your Game
 master decideds how much stamina it will cost to use and any other resources and if you need to
 roll any checks.
 
 **Interact**
+
 Tags: Range 1; Stamina 2;
+
 to use an item or object.
 
 **Attack**
@@ -688,7 +511,7 @@ You rest a moment and regain half of your maximum Stamina (rounded down).
 
 **Dodge**
 
-Tags: Move 1; Check Simple Finesse; End;
+Tags: Move 1; Check Simple Finesse; Protection 4; End;
 
 you move out of the way and attempt to dodge attacks you regain Stamina equal to 2 times the
 number of sucessses you score on the check.
@@ -713,13 +536,13 @@ you hide behind cover. you gain Protection so long as you do not take any other 
 
 **Drop Prone/Get up**
 
-Tags: Stamina 1; Suffer Prone;
+Tags: Stamina 1;  Prone;
 
 Choose to become Prone or or remove Prone;
 
 **Throw object**
 
-Tags: Stamina 2; Hostile; Check Simple Ballistic; Range 8; Damage Varies;
+Tags: Stamina 1; Hostile; Check Simple Ballistic; Range 8; Damage Varies;
 
 You throw an item at a target, roll a Check if you score a success, cause an effect depending on the
 item.
@@ -733,13 +556,13 @@ remove 1 ammunition from your Magazine. the ammunition is damaged and drops to t
 
 **Distract**
 
-Tags: Range 12; Stamina 1; Suffer Distracted;
+Tags: Range 12; Stamina 1; Distracted;
 
 You attempt to distact a Creature within range.
 
 **Disarm**
 
-Tags: Range 1; Stamina 1; Hostile; Suffer Disarmed 1d12;
+Tags: Range 1; Stamina 1; Hostile; Disarmed 1d12;
 
 you attempt to disarm a creature within range.
 
@@ -774,7 +597,6 @@ Game Master dictates what you find.
 
 ## Downtime Mode
 
-
 Players enter downtime mode to rest, train, recover from wounds, buy items, craft items and
 partake in entertainment activities. In downtime mode you spend you consume 1 food per 4
 Hours. you can only perform Downtime activities in civilized areas or at a camp. Travel in downtime
@@ -800,7 +622,7 @@ Reduce your Stress by 5.
 
 **Sleep**
 
-Tags: Hours 8; Cleanse Exhausted; Suffer Exhausted.
+Tags: Hours 8; Cleanse Exhausted;  Exhausted.
 
 you must sleep after performing 12 hours of activities or you became Exhausted.
 
@@ -811,7 +633,6 @@ Tags: Roleplay; Check Psyche; Hours 8;
 You train yourself in a set of skills; choose a Progression Item, Ability. make a Complex Psyche
 Check to see how much Progress you makes. if you do not gain Enough Progress on your training
 in one session, Scribe down how much Progress you made towards learning for future reference.
-
 
 **Research**
 
@@ -858,11 +679,13 @@ below you will find a list of all combat abilities sorted by type.
 ### General
 
 **Skirmisher**
+
 Tags: Enhancment; Debility; Progress 8;
 Your first Turn of Combat your first action cost 2 less Stamina and on subsuquent turns actions
 costs 1 less Stamina, however you begin combat with 17 Stamina instead of 20.
 
 **Sly Interact**
+
 Tags: Stamina 2; Range 1; Progress 3;
 Attack a creature, then perform one of the following actions against them: Distract, Disarm, or
 Interact.
@@ -877,22 +700,39 @@ You can use the Craft or Repair downtime ability in Investigation Mode to make 1
 
 ## Downtime Abilities
 
-
 # Tags rules
 
 Tags are special shorthand phrases that describe core mechanics.
 
-## Basic Tags
-
-below are a list of all the basic tags.
+## Social
 
 ### Illigal
 
 This item action or activity will attract law enforcement if used/shown in public.
 
+### Prestige
+
+This item is only used by people of high social status.
+
+## Resource Tags
+
+### Limit X
+
+This item or ability can only be used X times per Day.
+
 ### Progress X
 
 This item or ability can only be unlocked by Training, you Must make X Progress to unlock it.
+
+### Hours X
+
+This downtime activity takes you X Hours to complete.
+
+### Stamina X
+
+This item, or ability costs X Stamina to use in Combat.
+
+## Interaction Tags
 
 ### Loud
 
@@ -903,17 +743,27 @@ this item or ability make a lot of noise and reveal your location on use.
 this item or ability involves roleplaying an interaction. you may be given bonuses depending on
 how well you roleplay the interaction.
 
+### Group X
+
+this item or activity can only be used when X people co-opporate to opperate it.
+
+## Basic Tags
+
+below are a list of all the basic tags.
+
 ### Check X
 
 This action, ability or spell requires you or the target to make a Check to perform the action.
 
-### Hours X
+### Clense X
 
-This downtime activity takes you X Hours to complete.
+this ability or item removes causes the target to remove X status condition.
 
-### Stamina X
+## Combat Focused Tags
 
-This item, or ability costs X Stamina to use in Combat.
+### Protection X
+
+this ability or item grants you X Protection.
 
 ### Duration X
 
@@ -931,18 +781,11 @@ if a duration is specified.
 ### Radius X
 
 this item or ability targets all creatures and items inside a X metre radius of a place in space. each
-
-
 creature or item suffers the specified damage and effect.
-
-### Suffer X
-
-this item or ability causes the target to suffer X status condition. the target makes a Check based
-on the condition they are suffering.
 
 ### Delay X
 
-this item or ability only activates after X units of time.
+this item or ability only activates after X turns.
 
 ### Move X
 
@@ -956,19 +799,6 @@ this ability or item reduces the target's Protection by X.
 
 this ability or item Ignore X Protection when dealing damage.
 
-### Protection X
-
-this ability or item grants you X Protection.
-
-### Clense X
-
-this ability or item removes causes the target to remove X status condition.
-
-### Group X
-
-X creatures must use two hands to opperate this item. if it is an activity you perform this activity
-together.
-
 ## Elemental Tags
 
 ### Heat
@@ -979,7 +809,6 @@ This enviorment, item or ability generates a large quantity of heat.
 
 this enviorment, item or ability reduces the amount of heat around.
 
-
 ### Wind
 
 this enviorment, item or ability generates a strong air current.
@@ -988,59 +817,98 @@ this enviorment, item or ability generates a strong air current.
 
 This envoirment, item or ability genrates a large quantity moisture or water.
 
-### Mud
+## Item Tags
 
-this enviorment, item or ability generates a large quantity of wet soil.
+### Universal
 
-## Weapon Tags
+these Tags can be applied to any Item.
 
-### Recoil X
+#### One-Handed
 
-after making a Ballistic Check to attack with a Weapon, reduce your Ballistics
-Skill by X Ranks until you perform the Respite action. On subsequent turns, you
-can make a Basic Resiliance Check to reduce X by the number of success you
-score on the check.
+you are required to use at least 1 hand to use this item.
 
-### Swift
+#### Two-handed
 
-all Attack actions with this Weapon cost 1 Less Stamina.
+you are required to use two hands to use this item.
 
-### Slow
+#### Thrown
 
-all Attack actions with this Weapon cost 1 additional Stamina.
+you can throw this item without much effort.
 
-### Burst X
+#### Concealed
+
+you can hide this easily on your character.
+
+#### Weightless
+
+this item doesn't take up Inventory slots.
+
+#### Light
+
+this item take up 1 Inventory slots.
+
+#### Cumbersome
+
+this item take up 3 Inventory slots.
+
+#### Mounted
+
+this item can only be used while the wielder is prone or while the weapon is attached to a
+surface.
+
+#### Swift
+
+all actions with this item cost 1 Less Stamina.
+
+#### Slow
+
+all actions with this item cost 1 additional Stamina.
+
+### Consumables
+
+#### Charges X
+
+you can use this item X times before before needing to recharge or repairing the item.
+
+### Armour
+
+#### Worn
+
+This item can be worn on yourself. It takes up 1 less Inventory when you are wearing it.
+
+#### Restricting
+
+You spend 1 additional Stamina when you interact with objects.
+
+#### Strider
+
+You can move 1 more metre when wearing this armour
+
+### Weapon Tags
+
+#### Recoil X
+
+after making a Skill Check to attack with a Weapon, reduce that Skill's Rank by X
+until you perform the Respite action. On subsequent turns, you can make a Basic
+Resiliance Check to reduce X by the number of success you score on the check.
+
+#### Burst X
 
 this Weapon shoots up to X ammunition per Attack. When you Attack with this
 weapon increase your Ballistics Rank by X-1.
 
-### Mounted
+#### Magazine X
 
-this weapon can only be fire while the wielder is prone or while the weapon is attached to a
-surface.
-
-### Magazine X
-
-this Weapon can hold X maximum Ammunition. if you reduce your Magazine to 0 you must reload your
+this Weapon can be used a number of times equal to X before taking the Reload action.
 Weapon.
 
-### Chamber
+#### Chamber
 
 you must spend 1 Stamina to dislodge ammunition out of the weapon after each attack.
 
-### Destructive
+#### Destructive
 
-Destructive Weapons deal Double damage to Objects and Structure.
-
-## Armour Tags
-
-### Restricting
-
-You spend 1 additional Stamina when you interact with objects.
-
-### Strider
-
-you can move once for free without expending Stamina.
+Destructive Weapons deal Double damage to Objects, Structure and Constructs.
 
 ## Ability Tags
 
@@ -1051,17 +919,17 @@ Will be updated in the crafting update.
 
 ### Alter X
 
-this ability alters an existing ablility. the alteration is described in the text.
+this ability alters an existing ablility. you must have learned the mentioned
+ability to gain the benefits of this ability. The alteration is described in
+the text.
 
 ### Research
 
-this abiliy gathers information. Research can be used in combat mode and cost 3 Stamina.
+this abiliy gathers information.
 
 ### Debility
 
-this action causes a target suffer a negitive Effect. the target can suffer multiple Debilities at once
-keep the highest Debility if they affect the same statistics. Debilities take precident over
-Enhancement, abilities and items.
+this action causes a target suffer a negitive Effect.
 
 ### End
 
@@ -1080,208 +948,75 @@ this action is treated as a hostile action and can trigger combat if used in Inv
 
 This action or ablilty can only be used in Investigation mode.
 
-## Item Tags
-
-### Charges X
-
-you can use this item X times before before needing to recharge or repairing the item.
-
-### Worn
-
-This item can be worn on yourself. it takes up 1 less Inventory when you are wearing it.
-
-### Prestige
-
-This item is only used by people of high social status.
-
-### One-Handed
-
-you are required to use at least 1 hand to use this item.
-
-### Two-handed
-
-you are required to use two hands to use this item.
-
-### Thrown
-
-you can throw this item without much effort.
-
-### Concealed
-
-you can hide this easily on your character.
-
-### Weightless
-
-this item doesn't take up Inventory slots. scribe this item in your notes instead.
-
-
-### Light
-
-this item take up 1 Inventory slots.
-
-### Cumbersome
-
-this item take up 3 Inventory slots.
-
-### Magical
-
-the item can be used to channel magic.
-
-### Mutagen
-
-this item is a special type of consumable that modifiers your body in some way. you can only be
-affected by one Mutagen at a time.
-
-### Cyberware X
-
-This item is a Cybernetic implant you can only have two cybernetic implants in each body part.
-when you install a cyberware write down where it is implanted. when you are wearing a Cybernetic
-implants you gain X Stress.
-
-## Spell Tags
-
-### Fatigue
-
-You cannot cast spells until the next turn or before the end of the Spell's duration whichever is
-longer.
-
-## Status Effects
+## Status Effects Tags
 
 below is a list of Status effects that are used in the tabletop game.
 
-### Resistable
+### Hurting X
 
-Resistable Effects allow you to make a Check to lower the severity of the effect.
+you are set ablaze and take damage at the end of your turn.
 
-**Burning X**
-
-Tags: Damage X; Check Advanced Resiliance;
-
-you are set ablaze and take damage at the end of your turn. reduce the damage by the number of
-successes you score on the check.
-
-**Poisoned X**
-
-Tags: Debility; Check Advanced Resiliance;
+### Weakened X
 
 You have been subject to a poisonous or venomous substance. reduce your Psyche, Finesse and
-Resiliance by X rank. reduce the penalty to your Attribute's Ranks by 1 for each success you score
-on the check.
+Resiliance by X rank.
 
-**Marked X**
-
-Tags: Debility; Check Advanced Finesse;
+### Marked X
 
 You have been marked, hostile creatures will attack you more often for X turns or units of time.
-reduce the duration by 1 turn for each success you score on the check.
 
-**Disarm X**
+### Disarm X
 
-Tags: Debility; Check Simple Finesse;
+Reduce the damage a Weapon deals by X. The Weapon falls to the ground when it Deals 0 Damage.
 
-Reduce the damage a Weapon deals by X. If it is reduced to 0 the weapon falls to the ground.
-reduce the Damage penalty by 1 for each success you score on the check.
+### Stunned X
 
-**Stunned X**
+You become unable to act for X turns.
 
-Tags: Debility; Check Simple Psyche;
+### Slowed X
 
-You become unable to act for a number of turns. reduce the Duration by 1 turn for each success
-you score on the check.
+Reduce any Move action or ability you can perform by X.
 
-**Slowed X**
-
-Tags: Debility; Check Advanced Finesse;
-
-Reduce any Move action or ability you can perform by X, reduce X by 1 for each success you score
-on the check.
-
-### Unresistable
-
-come status effect apply automatically without you being able to do anything about them.
-
-**Hungry**
-
-Tags: Debility;
+### Hungry
 
 You are hungry, you reduce your Stamina by 10;
 
-**Unconcious**
-
-Tags: Debility;
+### Unconcious
 
 You fall down to the ground unable to perform actions.
 
-**Blinded**
-
-Tags: Debility;
+### Blinded
 
 You cannot see anything, you cannot target anything other than yourself.
 
-**Obscured**
-
-Tags: Enhancement;
+### Obscured
 
 you are hard to see targets cannot attack you directly.
 
-**Distracted**
+### Distracted
 
-Tags: Debility;
+You are distracted, you do not benefit from Protection, reduce your protection to 0.
 
-The target doesn't benefit from Protection
+### Cursed X
 
-**Cursed X**
+you have been cursed and weakened severially, Reduce your Maximum Stamina by X
+to a minimum of 1.
 
-Tags: Debility;
-
-you have been cursed and weakened severially, Reduce your Maximum Stamina by X to a
-minimum of 1.
-
-**Exhausted**
-
-Tags: Debility;
+### Exhausted
 
 You are beyond tired you unable to regain Stamina or Stress so long as you ar Exhausted.
 
-**Prone**
-
-Tags: Debility; Enhancement;
+### Prone
 
 You lie on the ground, Melee Attacks score a minimum of 2 Successes against you, however
 Ranged Attacks score 1 Fumble against you.
 
-**Weakness X**
-
-Tags: Debility;
+### Weakness X
 
 You have a weakness to X, whenever you interact or are touched by X you take 10 Damage.
 
-**Fear X**
-
-Tags: Roleplay; Debility;
+### Fear X
 
 You have an innate fear of X, whenever you interact with X you must roleplay how your character
 deals with this fear.
-
-### Item Specific
-
-Item Specific effects are effects that apply directly to items.
-
-**Intact**
-
-The item works as intended and isn't Damaged.
-
-**Defective**
-
-Tags: Debility; Progress 4;
-
-The item is defective and sometimes fails to function. The Game Master Rolls a d12 on a 5 or lower
-the item fails to function and you waste Stamina using it. Weapons Deal half the specified Damage
-(rounded down). Armour grant Half the specified Protection (rounded down).
-
-**Broken**
-
-Tags: Debility; Progress 8;
-
-the item is unusable and doesnt grant any bonuses.
 

@@ -65,3 +65,12 @@ Tags: Alter Quick Hacking; Stamina 3; Range 10; Duration 4 Turns; Progress 8;
 Upload an Injection then you can to spread it to another target within 10 metres of the original
 target.
 
+# Tags
+## Items
+
+
+### Cyberware X
+
+This item is a Cybernetic implant you can only have two cybernetic implants in each body part.
+when you install a cyberware write down where it is implanted. when you are wearing a Cybernetic
+implants you gain X Stress.

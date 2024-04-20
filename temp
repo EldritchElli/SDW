@@ -1,0 +1,324 @@
+**Standard Issue Pistol**
+ oh:20
+ ld:-10
+bst:30 2
+mag:90 12
+rng:100 20
+dmg:60 3
+ lg:50
+rec:-30 2
+con:-10
+---- 300
+
+
+**Machine Pistol**
+ oh:20
+ ld:-10
+bst:90 6
+mag:75 30
+rng:75 15
+dmg:40 1
+rec:-40 8
+ lg:50
+--- 300
+
+**Heavy Pistol**
+ oh:20
+ ld:-10
+bst:30 2
+mag:60 8
+rng:75 15
+dmg:160 8
+rec:-80 2
+ lg:50
+con:-10
+--- 295
+
+**Bolt Action Pistol**
+ oh:20
+ ld:-10
+bst:15  1
+mag:90  6
+rng:150 30
+dmg:150 10
+rec:-150 3
+dis:-15
+ lg:50
+con:-10
+--- 290
+
+**Double-Barrel Shotgun**
+ th:0
+ ld:-10
+bst:15  1
+mag:30  2
+rng:75  15
+dmg:150 10
+rec:-200 4
+des:15  
+--- 75
+
+**Sawn-off Shotgun**
+ oh:20
+ ld:-10
+bst:15  1
+mag:30  2
+rng:25  5
+dmg:150 10
+rec:-300 6
+des:15
+con:-10 
+--- -65 
+
+**Single-shot Shotgun**
+ th:0
+ ld:-10
+bst:15  1
+mag:15  1
+rng:75  15
+dmg:150 10
+rec:-150 3
+des:15
+--- 110
+
+**Automatic Shotgun**
+ th:0
+ ld:-10
+bst:45  3
+mag:50  10
+rng:50  10
+dmg:150 6
+rec:-240 8
+des:15 
+--- 60
+
+**Semi-Automatic Shotgun**
+
+ th:0
+ ld:-10
+bst:30  2
+mag:53  7
+rng:50  10
+dmg:160 8
+rec:-240 6
+des:15  
+--- 58
+
+**Assault Rifle**
+ th:0
+ ld:-10
+bst:45 3
+mag:150 30
+rng:150 30
+dmg:125 5
+rec:-75  3
+--- 385
+
+**Battle Rifle**
+ th:0
+ ld:-10
+bst:30  2
+mag:150 20
+rng:80  40
+dmg:160  8
+rec:-160 4
+--- 250
+
+**Personal Defence Rifle**
+ th:0
+ ld:-10
+bst:75 5
+mag:90 30
+rng:125 25
+dmg:105 3
+rec:-45 3
+ lg:50
+con:-10
+--- 380
+
+**Anti-Material Rifle**
+ th: 0
+ ld: -10
+bst: 15    1
+mag: 15    1
+rng: 350   70
+dmg: 360   24
+pirc:40   8
+rec: -1920 16
+dis: -15
+cub: -50
+mnt: -50
+grp: -40   
+---   -1305
+
+**Marksman Rifle**
+ th:0
+ ld:-10
+bst:15  1
+mag:150 10
+rng:250 50
+dmg:150 10
+rec:-150 3
+--- 405
+
+**Presision rifle**
+ th:0
+ ld:-10
+bst:15  1
+mag:150 10
+rng:200 40
+dmg:150 10
+rec:-150 3
+dis:-15
+--- 340
+
+**Submachine gun**
+ th:0
+ ld:-10
+bst:45  3
+mag:150 30
+rng:100 20
+dmg:100 4
+rec:-80 4
+--- 305
+
+**Military-Grade Submachine Gun**
+ th:0
+ ld:-10
+bst:75 5
+mag:90 30
+rng:125 25
+dmg:105 3
+rec:-45 3
+--- 340
+
+**Grenade Launcher**
+ th:0
+ ld:-10
+bst:15 1
+mag:15 1
+rng:150 30
+dmg:150 10
+rad:212 3
+rec:-300 6;
+des:15
+--- 247
+
+**one-handed Crossbow**
+ oh:20
+bst:15
+mag:15
+rng:100
+rec:-20
+dmg:60
+pirc:10
+--- 200
+
+**Crossbow**
+ th:0
+bst:15
+mag:45
+rng:200
+rec:-80
+dmg:120
+pirc:15
+--- 315
+
+**Heavy Crossbow**
+ th:0
+bst:15
+mag:15
+rng:200
+rec:-200
+dmg:150
+pirc:15
+--- 195
+
+**Longbow**
+ th:0
+bst:15
+mag:15
+rng:175
+rec:-40
+dmg:120
+pirc:10
+--- 295
+
+**Shortbow**
+ th:0
+bst:15
+mag:15
+rng:125
+rec:-30
+dmg:90
+--- 215
+
+**Staff**
+ th:0
+rng:5
+dmg:75
+swf:50
+ lg:50
+mag:300
+--- 480
+
+**Sword**
+ oh:20
+rng:5
+dmg:90
+mag:300
+--- 415
+
+**Club**
+ oh:20
+rng:5
+dmg:60
+swf:50
+ lg:50
+mag:300
+
+--- 485
+
+**Dagger**
+ oh:20
+rng:5
+dmg:45
+swf:50
+ lg:50
+con:-10
+mag:300
+--- 460
+
+**Warhammer**
+ th:0
+rng:10
+dmg:150
+cru:15
+mag:300
+
+--- 475
+
+**Axe**
+ th:0
+rng:5
+dmg:150
+slw:-15
+des:15
+mag:300
+--- 455
+
+**Spear**
+ th:0
+rng:10
+dmg:120
+pirc:10
+mag:300
+--- 440
+
+**Longspear**
+ th:0
+rng:15
+dmg:90
+pirc:5
+mag:300
+--- 410
