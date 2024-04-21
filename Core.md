@@ -18,11 +18,11 @@ Creatures are living or formerly living beings controlled by the Game Master or 
 Creatures have personalities, ethics, and preferences. Creatures can see and hear things around
 them.
 
-### Gamemaster's Goal
+### Game master's Goal
 
-The Game Master's goal is to provide a enjoyable experience to themselves and their Players. this
+The Game Master's goal is to provide an enjoyable experience to themselves and their Players. This
 is typically achieved by allowing players to have agency in the world by letting them fulfill their
-goals. Game master's are encurraged to challenge the Players with interesting encounters and
+goals. Game master's are encouraged to challenge the Players with interesting encounters and
 scenarios.
 
 ## Player
@@ -35,13 +35,12 @@ section.
 
 ### Characters
 
-Characters are sentient creatures controlled by Players that are not summoned creatures or
-familiars. Characters interact with the world the Game Master creates. Characters are customizable
-and are discussed further in the Character Creation section.
-
+Characters are sentient creatures controlled by Players that are not summoned
+creatures or familiars. Characters interact with the world the Game Master
+creates.
 **Player's Goal**
 
-the goal of the Players is to fulfill their Character's abmitions and satisfy their lifestyles. Players
+The goal of the Players is to fulfill their Character's ambitions and satisfy their lifestyles. Players
 should seek to use their agency to change the world for the better of worse. Gigs and other
 various activities allow Players to fulfill their character's needs as well as let them earn money in the
 meantime.
@@ -49,7 +48,7 @@ meantime.
 ### Gigs
 
 Gigs are missions Players can choose to take on, these can be complex, simple or anything in
-between. Gigs are set up by Fixers that typically reward Mercinaries with money, information, or
+between. Gigs are set up by Fixers that typically reward Mercenaries with money, information, or
 equipment. Certain gigs reward you more if you complete optional objectives and conform to set
 deadlines.
 
@@ -59,10 +58,10 @@ Checks are used as a resolution mechanic, Checks are made using a twelve sided d
 Checks have 3 Complexities: Simple, Advanced and Complex; the Check's complexity determines
 the target values.
 
-when you make a Check, you must score a value equal to or higher than the target value to score a
+When you make a Check, you must score a value equal to or higher than the target value to score a
 success.
 
-To make a Checks, roll multiple dice equal to your Attribute's value. count the
+To make a Checks, roll multiple dice equal to your Attribute's value. Count the
 number of dice that scored the success value specified by the Check's
 Complexity the more dice that score a success the better the outcome.
 
@@ -72,23 +71,23 @@ A Fumble is a result of 1 on a d12, each fumble you score removes 1 success.
 
 ### Simple Checks
 
-Simple Checks require you to score a 7 or higher to succeed. Simple checks do not count fumbles.
+Simple Checks require you to score 7 or higher to succeed. Simple checks do not count fumbles.
 
 ### Advanced Checks
 
-Advanced Checks require you to score a 9 or higher to succeed.
+Advanced Checks require you to score 9 or higher to succeed.
 
 ### Complex Checks
 
-Complex Checks require you to score a 11 or higher to succeed;
+Complex Checks require you to score 11 or higher to succeed;
 
 ## Stress
 
-Stress represents a Character's the mental Fatique from life. A character has 0 Stress at Character
+Stress represents a Character's the mental Fatigue from life. A character has 0 Stress at Character
 
 Creation. A Character can choose to gain 1 Stress to roll additional dice equal to one of your
 Attributes on a Skill Check as your game master which they think applies most. Stress slowly
-recovers when performing specific downtime tasks. when you gain 15 Stress, your character has a
+recovers when performing specific downtime tasks. When you gain 15 Stress, your character has a
 mental breakdown and will flee regardless if that results in their death, you lose control of You
 Character and must retire them.
 
@@ -96,18 +95,21 @@ Character and must retire them.
 
 Items are tangible objects of any size that are not alive, sentient or possessed by a creature. Items
 have a Base Value, the base value determines how much the item costs to craft and how much it
-costs to purchase at character creation. Items can have a Upkeep Cost, the Upkeep Cost refers to
-the price you must pay to continue using the item after completing a Gig, if you do not pay the
-price you will not be able to use the item until you do.
-the Prices of items can fluctuated based on in world events and stocks, the Game Master can set
-the price of items as they see fit so long as it is within reason. The Game master should provide a
-reason as to why the items are priced as such if the Players Enquire about it, such as discounts or
-Taxes.
+costs to purchase at character creation.
 
-### Technology Level
-Items are seperated into Levels that describe the scocities highest
+Items have an Upkeep Cost, the Upkeep Cost refers to the price you must pay to
+continue using the item after completing a Gig. If you do not pay the price you
+will not be able to use the item until you do.
+
+The Prices of items can fluctuated based on in world events and stocks, the Game Master can set
+the price of items as they see fit so long as it is within reason.
+
+### Taxes
+
+## Technology Level
+Items are separated into Levels that describe the society's highest
 achievements, from Technology Level 1 (the Stone Age) to Technology Level 11
-(The Robotic Age).
+(The Space Age).
 
 |Tech Level | age |
 |:---------:|:---:|
@@ -117,10 +119,10 @@ achievements, from Technology Level 1 (the Stone Age) to Technology Level 11
 |4          | Medieval Age   |
 |5          | Age of Sailing |
 |6          | Industrial Revolution |
-|7          | Mechanised Age |
+|7          | Mechanized Age |
 |8          | Nuclear Age    |
 |9          | Digital Age    |
-|10         | microtech age  |
+|10         | micro-tech age  |
 |11         | Space Age    |
 
 ## Money
@@ -129,8 +131,8 @@ The money or is used to buy items, and train.
 
 ## Tags
 
-Tags are used to reperesent common mechanics and are written before the main bock of text. Tags
-Explain the core mechanics of a action item or ability. the list of tags can be found in the tags
+Tags are used to represent common mechanics and are written before the main bock of text. Tags
+Explain the core mechanics of an action, item, or ability. The list of tags can be found in the tags
 section.
 
 ## Modes
@@ -150,7 +152,7 @@ of an effect, you take the more impactful effect.
 
 Damage is a number that represents how much harm something can inflict; Damage can be
 variable by using dice and other mechanics to dictate the exact amount of harm dealt to a creature
-or object. if you damage multiple targets, roll the damage once only, each target takes the
+or object. If you damage multiple targets, roll the damage once only, each target takes the
 specified amount of damage.
 
 ## Inventory
@@ -160,15 +162,16 @@ for Items. Items by default use up 2 Spaces.
 
 ## Abilities and Activities
 
-Abilities are special actions that can be used in Combat Mode or Invesigation Mode. All Combat
+Abilities are special actions that can be used in Combat Mode or Investigation Mode. All Combat
 Abilities Stamina some may also use another resource while Investigation mode Abilities use your
 entire turn to perform.
+
 Activities are events you can partake in Downtime Activities use Hours as a resource.
 
 ## Attributes
 
-each Creature have 3 Base Attributes, these Attributes are Finesse, Resilience, and Psyche. the value
-of an Attribute ranges from 0 to 5 the table below signifies what each value represents. the value
+each Creature have 3 Base Attributes, these Attributes are Finesse, Resilience, and Psyche. The value
+of an Attribute ranges from 0 to 5 the table below signifies what each value represents. The value
 of your Attribute dictates how many dice you roll when making a saving throw.
 
 ### Finesse
@@ -178,7 +181,7 @@ projectiles and evasion.
 
 ### Resilience
 
-The Resilience Attribute dictates your character's resilience, natural Defences and immunity to
+The Resilience Attribute dictates your character's resilience, natural defenses and immunity to
 illnesses.
 
 ### Psyche
@@ -188,7 +191,7 @@ magical prowess.
 
 ## Skills
 
-skills are specific areas of your character's knowledge, and experiences. these are used to perform
+skills are specific areas of your character's knowledge, and experiences. These are used to perform
 various tasks and overcome obstacles. Each Skill has a Rank ranging from 0 to 5.
 
 ### Ballistics
@@ -205,7 +208,7 @@ The Spellcraft skill is used to recall knowledge on Magic and it's properties.
 
 ### Society
 
-The Society Skill is used to recall knowledge on history, social norms religon and important events.
+The Society Skill is used to recall knowledge on history, social norms religion and important events.
 
 ### Science
 
@@ -213,8 +216,8 @@ The Science Skill is used to recall knowledge on Biology, Physics and Chemistry.
 
 ## Defences
 
-Each creature has Defences that keeps them alive, these defences represent the characters health,
-sanity, resistance against damage and resistance against harmful effects.
+Each creature has Defenses that keeps them alive, these defenses represent the characters health,
+sanity and resistance against damage.
 
 ## Stamina
 
@@ -224,16 +227,17 @@ Creatures that are reduced to 0 Stamina suffer a Wound.
 
 ## Wounds
 
-Wounds are debilities your character takes when they recived damage at 0 Stamina, when you gain
-take damage at 0 Stamina, you gain 1 Wound and you choose a Skill or Attribute to reduce by 1
-Rank. You can have a number of Wounds Equal to your Wound Maximum specified by your
-Ancestry, if you suffer another Wound when you have Reached your Wound Maximum you Enter a
-Final Stand after this Final Stand your Character Dies.
+Wounds are debilities your character takes when they receive damage at 0
+Stamina, when you gain take damage at 0 Stamina, you gain 1 Wound and choose a
+Skill or Attribute to reduce by 1 Rank. You can have a number of Wounds Equal
+to your Wound Maximum, if you suffer another Wound when you have Reached your
+Wound Maximum you Enter a Final Stand after this Final Stand your Character
+Dies.
 
 ### Final Stand
 
 You are dying, you have only a brief moment to live, you delay your death by 1d12 turns. You
-cannot regain Stamina and Actions and abilities do not cost any Stamina, you still can only perfrom
+cannot regain Stamina and Actions and abilities do not cost any Stamina, you still can only perform
 one action per turn. Whenever you Take damage you subtract 3 turns from your remaining turn
 alive.
 
@@ -243,7 +247,7 @@ Protection is based on your Armour. Protection reduces how much Damage you take 
 
 ## Armour
 
-armour is any object that is worn and protects you from harm.
+Armour is any object that is worn and protects you from harm.
 
 ## Weapons
 
