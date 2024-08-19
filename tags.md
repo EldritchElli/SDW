@@ -1,1141 +1,247 @@
+# Tags rules
 
-# Basic Tags
+Tags are special shorthand phrases that describe core mechanics.
 
-## Loud
+## Social
 
-this item or ability make a lot of noise and reveal your location on use.
+### Illigal
 
-## Roleplay
+This item action or activity will attract law enforcement if used/shown in
+public.
 
-this item or ability involves roleplaying an interaction. you may be given bonuses depending on how well you roleplay the interaction.
+### Prestige
 
-## Hours X
+This item is only used by people of high social status.
 
-This downtime activity takes you X Hours to complete. 
+## Resource Tags
 
-## Insight X
+### XP X
 
-This item, or ability costs X Stamina to use in Investigation Mode.
+This feature requires you to spend X experience on it to unlock it.
+if this tag is beside an Encounter, you gain X experience.
 
-## Stamina X
+### Hours X
 
-This item, or ability costs X Stamina to use in Combat.
+you spend X Hours to complete the activity.
 
-## Mana X
-this item or ability costs X Mana to use.
+### Stamina X
 
-## RAM X
-this item or ability cost X RAM to use.
+to perform this action, Reduce your Combat Skill Rank by X until the start of
+your next turn. using multiple actions with this Tag further reduces your
+Combat Skill Rank.
 
-## Duration X
+## Interaction Tags
 
-this item, or ability's affect lasts for X units of time. 
+### Check X
 
-## Range X
+You are required to make a X Check.
 
-this item, or ability can target creatures within X metres away from you.
+### Roleplay
 
-## Damage X
+this item or ability involves roleplaying an interaction. you may be given
+bonuses depending on
+how well you roleplay the interaction.
 
-this ability or item deals X Damage to the target. Deal damage each turn if a duration is specified.
+### Group
 
-## Heal X
+The whole party must contribute to this activity for it to be finished.
 
-this ability or item causes the target to regains X Health.
+## Perseption Tags
 
-## Refocus X
+### Loud
 
-this ability or item causes the target to regain X Mana.
+Makes a lot of noise attracting attention to a location specified in the text
+on use. if you are within Near range you become Deafened.
 
-## Radius X
+### Silent
 
-this item or ability targets all creatures and items inside a X metre radius of a place in space. each creature or item suffers the specified damage and effect.
+Makes no noise, doesn't attract any attention.
 
-## Suffer X
-this item or ability causes the target to suffer X status condition. 
+### Visible
 
-## Delay X
+can be seen easily by anyone looking in right place.
 
-this itme or ability only activates after X units of time.
+### Hidden
 
-## Move X
+cannot be seen easily; requires you to Search a location to find it.
 
-you move yourself, creature or object specified by the text a X metres in any direction.
+### Exposed
 
-## Crushing X
+easy to target, you automatically succeed on any action against this target.
 
-this  ability or item reduces the target's Protection by X.
+### Obscured
 
-## Piercing X
+hard to target, requires you to to make an Aptitude check before being able to
+target it.
 
-this ability or item Ignore X Protection when dealing Health damage.
+## Basic Tags
 
-## Protection X 
+below are a list of all the basic tags.
 
-this ability or item grants you additional X Protection.
+### Range X
 
-## Clense X
+Target a creature, a object, or a space within an aproximate distance.
 
-this ability or item removes causes the target to remove X status condition.
+Adjacent: directly beside.
+Near: the distance you can throw a bulky stone.
+Far: anywhere you can see.
 
-## Group
+### Clense X
 
-you and your companions must use two hands to opperate this item. if it is an activity you perform this activity together.
+remove the X status condition from a target.
 
-# Weapon Tags 
+## Combat Focused Tags
 
-## Recoil X
+### Protection X
 
-after attacking with this weapon, You must spend X Stamina on actions without
-the Damage tag or you automatically fail to hit targets with this weapon. 
+Reduce Damage recieved by the target by X.
 
-## Mechanical
+### Move
 
-Mechanical items are complex requiring more time to craft or repair, ignore the
-first DR of Progess you make when you Craft or Repair the item.
+you are displace from your current position, the length and direction is
+specified by the text.
 
-## Swift
-all Attack actions with this weapon costs 1 less Stamina.
+### Shove
 
-## Slow 
-all Attack actions with this weapon cost 1 additional Stamina.
+you move a creature or object from its current position, the length and
+direction is specified by the text.
 
+### Sunder X
 
-## Burst X
+Reduces the target's Protection by X.
 
-this weapon shoots X bullets per Attack. you can shoot half as many bullets (rounded up) to deal half the Damage specified on the weapon.
+### Piercing X
 
-## Ammo X
+Ignore X Protection when dealing damage.
 
-this weapon can hold X maximum Ammunition. after each
-attack reduce the number of Ammunition by the weapon's Burst, if you reduce your Magazine to 0
-you must reload your weapon.
+## Item Tags
 
-## Dislodge
+### One-Handed
 
-you must spend 1 Stamina to dislodge ammunition out of the weapon after each attack. 
+you can use 1 hand to use this item.
 
-## Quickload
+### Two-handed
 
-you do not need to spend Stamina to reload this weapon.
+you can use 2 hands to use this item.
 
-## Destructive
-
-Destructive Weapons deal Double damage to Objects and Structure.
-
-## Ricochet
-
-Ricochet Weapons are Ranged weapons that fire projectiles that bounce off of
-walls. Ricochet weapons do not damage walls.
-
-# Armour Tags 
-
-## Restricting
-
-You spend 1 additional Stamina when you interact with objects.
-
-## Natural
-
-You cannot remove this armour.
-
-## Strider
-
-you can move once for free without expending Stamina.
-
-# Ability Tags 
-
-## Scavenge
-
-this ability finds crafting Resourse. Scavenge abilities always find at least 1
-crafting Resource.
-
-## Alter X
-this ability alters an existing ablility. the alteration is described in the text.
-
-## Research
-
-this abiliy gathers information. Reseach abilities cost 3 Stamina in Combat mode. 
-
-## Debility
-
-this action causes a target suffer penalties. the target can suffer multiple Debilities
-at once keep the highest Debility if they affect the same statistics.
-
-## Enhancement
-
-this action grants a target bonuses. creatures can only be affected by 3
-Enhancment of its choice at a time. 
-
-## Hostile
-
-this action is treated as a hostile action and can trigger combat if used in Investigation mode.
-
-## Defensive X 
-
-this action generates X Stamina until the start of your next turn. if used on
-your turn, you end your turn. 
-
-## Recovery
-
-the action recovers from conditions or regains Resources.
-
-# Item Tags 
-
-## Augment-slot X
-
-this item uses X augmentation slots to equip.
-
-## Charges X
-
-you can use this item X times before before needing to recharge or remake the item.
-
-## Prestige 
-
-This item is only used by people of high social status. 
-
-## One-Handed
-
-you are required to use at least 1 hand to use this item.
-
-## Two-handed
-
-you are required to use two hands to use this item.
-
-
-## Thrown
+### Thrown
 
 you can throw this item without much effort.
 
-## Concealed
+### Concealed
 
-you can hide this easily on your character.
+you can hide this item easily on your character.
 
-## Light 
+### Weightless
 
-this item take up 1 Inventory slots. 
+this item doesn't take up Inventory slots.
 
-## Cumbersome 
+### Light
+
+this item take up 1 Inventory slots.
+
+### Cumbersome
 
 this item take up 3 Inventory slots.
 
-## Magical
+### Consumables
 
-the item can be used to channel Mana.
+this item is destroyed upon use.
 
-# Spell Tags
+### Charges X
 
-## Power X
+you can use this item X times before before needing to recharge or repairing the item.
 
-this Spell can only be cast with X Power or more.
-# Basic Tags
+### Worn
 
-## Loud
+This item can be worn on yourself. It takes up 1 less Inventory when you are wearing it.
 
-this item or ability make a lot of noise and reveal your location on use.
+## Ability Tags
 
-## Roleplay
+### Scavenge X Y
 
-this item or ability involves roleplaying an interaction. you may be given bonuses depending on how well you roleplay the interaction.
+you gain Y crafting Resource from the X scavenge table.
 
-## Hours X
+### Alter X
 
-This downtime activity takes you X Hours to complete. 
+this ability Changes or replaces the Text's body of X. you are required to have
+X before gaining any benefit from the alteration. The alteration is described
+in the text's Body.
 
-## Insight X
+### Debility
 
-This item, or ability costs X Stamina to use in Investigation Mode.
+Cause a target to suffer a negitive Effect. the Effect is specified by the
+Text's body.
 
-## Stamina X
+### Enhancement
 
-This item, or ability costs X Stamina to use in Combat.
+Grant a target a positive Effect. the Effect is specified by the Text's body.
 
-## Mana X
-this item or ability costs X Mana to use.
+### Hostile
 
-## RAM X
-this item or ability cost X RAM to use.
+this action is treated as a hostile action and can trigger combat if used in
+Investigation mode. Make a Combat Check, The text's body determines the score
+needed, the effect on a failure and the effect on a success.
 
-## Duration X
+### Investigation
 
-this item, or ability's affect lasts for X units of time. 
+This action or ablilty can only be used in Investigation mode.
 
-## Range X
+## Status Effects Tags
 
-this item, or ability can target creatures within X metres away from you.
+below is a list of Status effects that are used in the tabletop game.
 
-## Damage X
+### Hurting X
 
-this ability or item deals X Damage to the target. Deal damage each turn if a duration is specified.
+you are set ablaze and take damage at the end of your turn.
 
-## Heal X
+### Weakened X
 
-this ability or item causes the target to regains X Health.
+You have been subject to a poisonous or venomous substance. reduce your Psyche, Finesse and
+Resiliance by X rank.
 
-## Refocus X
+### Marked X
 
-this ability or item causes the target to regain X Mana.
+You have been marked, hostile creatures will attack you more often for X turns or units of time.
 
-## Radius X
+### Disarm X
 
-this item or ability targets all creatures and items inside a X metre radius of a place in space. each creature or item suffers the specified damage and effect.
+Reduce the damage a Weapon deals by X. The Weapon falls to the ground when it Deals 0 Damage.
 
-## Suffer X
-this item or ability causes the target to suffer X status condition. 
+### Stunned X
 
-## Delay X
+You become unable to act for X turns.
 
-this itme or ability only activates after X units of time.
+### Slowed
 
-## Move X
+All Move tags have reduced effectiveness, reduce the Range you can move by 1 Step (Far becomes Near, Near becomes Adjacent).
 
-you move yourself, creature or object specified by the text a X metres in any direction.
+### Hungry
 
-## Crushing X
+You are hungry, you reduce your Stamina by 5;
 
-this  ability or item reduces the target's Protection by X.
+### Unconcious
 
-## Piercing X
+You fall down to the ground unable to perform actions.
 
-this ability or item Ignore X Protection when dealing Health damage.
+### Blinded
 
-## Protection X 
+You cannot see anything, you cannot target anything other than yourself.
 
-this ability or item grants you additional X Protection.
+### Obscured
 
-## Clense X
+you are hard to see targets cannot attack you directly.
 
-this ability or item removes causes the target to remove X status condition.
+### Distracted
 
-## Group
+You are distracted, you do not benefit from Protection, reduce your protection to 0.
 
-you and your companions must use two hands to opperate this item. if it is an activity you perform this activity together.
+### Cursed X
 
-# Weapon Tags 
+you have been cursed and weakened severially, Reduce your Maximum Stamina by X
+to a minimum of 1.
 
-## Recoil X
+### Exhausted
 
-after attacking with this weapon, You must spend X Stamina on actions without
-the Damage tag or you automatically fail to hit targets with this weapon. 
+You are beyond tired you unable to regain Stamina or Stress so long as you ar Exhausted.
 
-## Mechanical
-
-Mechanical items are complex requiring more time to craft or repair, ignore the
-first DR of Progess you make when you Craft or Repair the item.
-
-## Swift
-all Attack actions with this weapon costs 1 less Stamina.
-
-## Slow 
-all Attack actions with this weapon cost 1 additional Stamina.
-
-
-## Burst X
-
-this weapon shoots X bullets per Attack. you can shoot half as many bullets (rounded up) to deal half the Damage specified on the weapon.
-
-## Ammo X
-
-this weapon can hold X maximum Ammunition. after each
-attack reduce the number of Ammunition by the weapon's Burst, if you reduce your Magazine to 0
-you must reload your weapon.
-
-## Dislodge
-
-you must spend 1 Stamina to dislodge ammunition out of the weapon after each attack. 
-
-## Quickload
-
-you do not need to spend Stamina to reload this weapon.
-
-## Destructive
-
-Destructive Weapons deal Double damage to Objects and Structure.
-
-## Ricochet
-
-Ricochet Weapons are Ranged weapons that fire projectiles that bounce off of
-walls. Ricochet weapons do not damage walls.
-
-# Armour Tags 
-
-## Restricting
-
-You spend 1 additional Stamina when you interact with objects.
-
-## Natural
-
-You cannot remove this armour.
-
-## Strider
-
-you can move once for free without expending Stamina.
-
-# Ability Tags 
-
-## Scavenge
-
-this ability finds crafting Resourse. Scavenge abilities always find at least 1
-crafting Resource.
-
-## Alter X
-this ability alters an existing ablility. the alteration is described in the text.
-
-## Research
-
-this abiliy gathers information. Reseach abilities cost 3 Stamina in Combat mode. 
-
-## Debility
-
-this action causes a target suffer penalties. the target can suffer multiple Debilities
-at once keep the highest Debility if they affect the same statistics.
-
-## Enhancement
-
-this action grants a target bonuses. creatures can only be affected by 3
-Enhancment of its choice at a time. 
-
-## Hostile
-
-this action is treated as a hostile action and can trigger combat if used in Investigation mode.
-
-## Defensive X 
-
-this action generates X Stamina until the start of your next turn. if used on
-your turn, you end your turn. 
-
-## Recovery
-
-the action recovers from conditions or regains Resources.
-
-# Item Tags 
-
-## Augment-slot X
-
-this item uses X augmentation slots to equip.
-
-## Charges X
-
-you can use this item X times before before needing to recharge or remake the item.
-
-## Prestige 
-
-This item is only used by people of high social status. 
-
-## One-Handed
-
-you are required to use at least 1 hand to use this item.
-
-## Two-handed
-
-you are required to use two hands to use this item.
-
-
-## Thrown
-
-you can throw this item without much effort.
-
-## Concealed
-
-you can hide this easily on your character.
-
-## Light 
-
-this item take up 1 Inventory slots. 
-
-## Cumbersome 
-
-this item take up 3 Inventory slots.
-
-## Magical
-
-the item can be used to channel Mana.
-
-# Spell Tags
-
-## Power X
-
-this Spell can only be cast with X Power or more.
-# Basic Tags
-
-## Loud
-
-this item or ability make a lot of noise and reveal your location on use.
-
-## Roleplay
-
-this item or ability involves roleplaying an interaction. you may be given bonuses depending on how well you roleplay the interaction.
-
-## Hours X
-
-This downtime activity takes you X Hours to complete. 
-
-## Insight X
-
-This item, or ability costs X Stamina to use in Investigation Mode.
-
-## Stamina X
-
-This item, or ability costs X Stamina to use in Combat.
-
-## Mana X
-this item or ability costs X Mana to use.
-
-## RAM X
-this item or ability cost X RAM to use.
-
-## Duration X
-
-this item, or ability's affect lasts for X units of time. 
-
-## Range X
-
-this item, or ability can target creatures within X metres away from you.
-
-## Damage X
-
-this ability or item deals X Damage to the target. Deal damage each turn if a duration is specified.
-
-## Heal X
-
-this ability or item causes the target to regains X Health.
-
-## Refocus X
-
-this ability or item causes the target to regain X Mana.
-
-## Radius X
-
-this item or ability targets all creatures and items inside a X metre radius of a place in space. each creature or item suffers the specified damage and effect.
-
-## Suffer X
-this item or ability causes the target to suffer X status condition. 
-
-## Delay X
-
-this itme or ability only activates after X units of time.
-
-## Move X
-
-you move yourself, creature or object specified by the text a X metres in any direction.
-
-## Crushing X
-
-this  ability or item reduces the target's Protection by X.
-
-## Piercing X
-
-this ability or item Ignore X Protection when dealing Health damage.
-
-## Protection X 
-
-this ability or item grants you additional X Protection.
-
-## Clense X
-
-this ability or item removes causes the target to remove X status condition.
-
-## Group
-
-you and your companions must use two hands to opperate this item. if it is an activity you perform this activity together.
-
-# Weapon Tags 
-
-## Recoil X
-
-after attacking with this weapon, You must spend X Stamina on actions without
-the Damage tag or you automatically fail to hit targets with this weapon. 
-
-## Mechanical
-
-Mechanical items are complex requiring more time to craft or repair, ignore the
-first DR of Progess you make when you Craft or Repair the item.
-
-## Swift
-all Attack actions with this weapon costs 1 less Stamina.
-
-## Slow 
-all Attack actions with this weapon cost 1 additional Stamina.
-
-
-## Burst X
-
-this weapon shoots X bullets per Attack. you can shoot half as many bullets (rounded up) to deal half the Damage specified on the weapon.
-
-## Ammo X
-
-this weapon can hold X maximum Ammunition. after each
-attack reduce the number of Ammunition by the weapon's Burst, if you reduce your Magazine to 0
-you must reload your weapon.
-
-## Dislodge
-
-you must spend 1 Stamina to dislodge ammunition out of the weapon after each attack. 
-
-## Quickload
-
-you do not need to spend Stamina to reload this weapon.
-
-## Destructive
-
-Destructive Weapons deal Double damage to Objects and Structure.
-
-## Ricochet
-
-Ricochet Weapons are Ranged weapons that fire projectiles that bounce off of
-walls. Ricochet weapons do not damage walls.
-
-# Armour Tags 
-
-## Restricting
-
-You spend 1 additional Stamina when you interact with objects.
-
-## Natural
-
-You cannot remove this armour.
-
-## Strider
-
-you can move once for free without expending Stamina.
-
-# Ability Tags 
-
-## Scavenge
-
-this ability finds crafting Resourse. Scavenge abilities always find at least 1
-crafting Resource.
-
-## Alter X
-this ability alters an existing ablility. the alteration is described in the text.
-
-## Research
-
-this abiliy gathers information. Reseach abilities cost 3 Stamina in Combat mode. 
-
-## Debility
-
-this action causes a target suffer penalties. the target can suffer multiple Debilities
-at once keep the highest Debility if they affect the same statistics.
-
-## Enhancement
-
-this action grants a target bonuses. creatures can only be affected by 3
-Enhancment of its choice at a time. 
-
-## Hostile
-
-this action is treated as a hostile action and can trigger combat if used in Investigation mode.
-
-## Defensive X 
-
-this action generates X Stamina until the start of your next turn. if used on
-your turn, you end your turn. 
-
-## Recovery
-
-the action recovers from conditions or regains Resources.
-
-# Item Tags 
-
-## Augment-slot X
-
-this item uses X augmentation slots to equip.
-
-## Charges X
-
-you can use this item X times before before needing to recharge or remake the item.
-
-## Prestige 
-
-This item is only used by people of high social status. 
-
-## One-Handed
-
-you are required to use at least 1 hand to use this item.
-
-## Two-handed
-
-you are required to use two hands to use this item.
-
-
-## Thrown
-
-you can throw this item without much effort.
-
-## Concealed
-
-you can hide this easily on your character.
-
-## Light 
-
-this item take up 1 Inventory slots. 
-
-## Cumbersome 
-
-this item take up 3 Inventory slots.
-
-## Magical
-
-the item can be used to channel Mana.
-
-# Spell Tags
-
-## Power X
-
-this Spell can only be cast with X Power or more.
-# Basic Tags
-
-## Loud
-
-this item or ability make a lot of noise and reveal your location on use.
-
-## Roleplay
-
-this item or ability involves roleplaying an interaction. you may be given bonuses depending on how well you roleplay the interaction.
-
-## Hours X
-
-This downtime activity takes you X Hours to complete. 
-
-## Insight X
-
-This item, or ability costs X Stamina to use in Investigation Mode.
-
-## Stamina X
-
-This item, or ability costs X Stamina to use in Combat.
-
-## Mana X
-this item or ability costs X Mana to use.
-
-## RAM X
-this item or ability cost X RAM to use.
-
-## Duration X
-
-this item, or ability's affect lasts for X units of time. 
-
-## Range X
-
-this item, or ability can target creatures within X metres away from you.
-
-## Damage X
-
-this ability or item deals X Damage to the target. Deal damage each turn if a duration is specified.
-
-## Heal X
-
-this ability or item causes the target to regains X Health.
-
-## Refocus X
-
-this ability or item causes the target to regain X Mana.
-
-## Radius X
-
-this item or ability targets all creatures and items inside a X metre radius of a place in space. each creature or item suffers the specified damage and effect.
-
-## Suffer X
-this item or ability causes the target to suffer X status condition. 
-
-## Delay X
-
-this itme or ability only activates after X units of time.
-
-## Move X
-
-you move yourself, creature or object specified by the text a X metres in any direction.
-
-## Crushing X
-
-this  ability or item reduces the target's Protection by X.
-
-## Piercing X
-
-this ability or item Ignore X Protection when dealing Health damage.
-
-## Protection X 
-
-this ability or item grants you additional X Protection.
-
-## Clense X
-
-this ability or item removes causes the target to remove X status condition.
-
-## Group
-
-you and your companions must use two hands to opperate this item. if it is an activity you perform this activity together.
-
-# Weapon Tags 
-
-## Recoil X
-
-after attacking with this weapon, You must spend X Stamina on actions without
-the Damage tag or you automatically fail to hit targets with this weapon. 
-
-## Mechanical
-
-Mechanical items are complex requiring more time to craft or repair, ignore the
-first DR of Progess you make when you Craft or Repair the item.
-
-## Swift
-all Attack actions with this weapon costs 1 less Stamina.
-
-## Slow 
-all Attack actions with this weapon cost 1 additional Stamina.
-
-
-## Burst X
-
-this weapon shoots X bullets per Attack. you can shoot half as many bullets (rounded up) to deal half the Damage specified on the weapon.
-
-## Ammo X
-
-this weapon can hold X maximum Ammunition. after each
-attack reduce the number of Ammunition by the weapon's Burst, if you reduce your Magazine to 0
-you must reload your weapon.
-
-## Dislodge
-
-you must spend 1 Stamina to dislodge ammunition out of the weapon after each attack. 
-
-## Quickload
-
-you do not need to spend Stamina to reload this weapon.
-
-## Destructive
-
-Destructive Weapons deal Double damage to Objects and Structure.
-
-## Ricochet
-
-Ricochet Weapons are Ranged weapons that fire projectiles that bounce off of
-walls. Ricochet weapons do not damage walls.
-
-# Armour Tags 
-
-## Restricting
-
-You spend 1 additional Stamina when you interact with objects.
-
-## Natural
-
-You cannot remove this armour.
-
-## Strider
-
-you can move once for free without expending Stamina.
-
-# Ability Tags 
-
-## Scavenge
-
-this ability finds crafting Resourse. Scavenge abilities always find at least 1
-crafting Resource.
-
-## Alter X
-this ability alters an existing ablility. the alteration is described in the text.
-
-## Research
-
-this abiliy gathers information. Reseach abilities cost 3 Stamina in Combat mode. 
-
-## Debility
-
-this action causes a target suffer penalties. the target can suffer multiple Debilities
-at once keep the highest Debility if they affect the same statistics.
-
-## Enhancement
-
-this action grants a target bonuses. creatures can only be affected by 3
-Enhancment of its choice at a time. 
-
-## Hostile
-
-this action is treated as a hostile action and can trigger combat if used in Investigation mode.
-
-## Defensive X 
-
-this action generates X Stamina until the start of your next turn. if used on
-your turn, you end your turn. 
-
-## Recovery
-
-the action recovers from conditions or regains Resources.
-
-# Item Tags 
-
-## Augment-slot X
-
-this item uses X augmentation slots to equip.
-
-## Charges X
-
-you can use this item X times before before needing to recharge or remake the item.
-
-## Prestige 
-
-This item is only used by people of high social status. 
-
-## One-Handed
-
-you are required to use at least 1 hand to use this item.
-
-## Two-handed
-
-you are required to use two hands to use this item.
-
-
-## Thrown
-
-you can throw this item without much effort.
-
-## Concealed
-
-you can hide this easily on your character.
-
-## Light 
-
-this item take up 1 Inventory slots. 
-
-## Cumbersome 
-
-this item take up 3 Inventory slots.
-
-## Magical
-
-the item can be used to channel Mana.
-
-# Spell Tags
-
-## Power X
-
-this Spell can only be cast with X Power or more.
-# Basic Tags
-
-## Loud
-
-this item or ability make a lot of noise and reveal your location on use.
-
-## Roleplay
-
-this item or ability involves roleplaying an interaction. you may be given bonuses depending on how well you roleplay the interaction.
-
-## Hours X
-
-This downtime activity takes you X Hours to complete. 
-
-## Insight X
-
-This item, or ability costs X Stamina to use in Investigation Mode.
-
-## Stamina X
-
-This item, or ability costs X Stamina to use in Combat.
-
-## Mana X
-this item or ability costs X Mana to use.
-
-## RAM X
-this item or ability cost X RAM to use.
-
-## Duration X
-
-this item, or ability's affect lasts for X units of time. 
-
-## Range X
-
-this item, or ability can target creatures within X metres away from you.
-
-## Damage X
-
-this ability or item deals X Damage to the target. Deal damage each turn if a duration is specified.
-
-## Heal X
-
-this ability or item causes the target to regains X Health.
-
-## Refocus X
-
-this ability or item causes the target to regain X Mana.
-
-## Radius X
-
-this item or ability targets all creatures and items inside a X metre radius of a place in space. each creature or item suffers the specified damage and effect.
-
-## Suffer X
-this item or ability causes the target to suffer X status condition. 
-
-## Delay X
-
-this itme or ability only activates after X units of time.
-
-## Move X
-
-you move yourself, creature or object specified by the text a X metres in any direction.
-
-## Crushing X
-
-this  ability or item reduces the target's Protection by X.
-
-## Piercing X
-
-this ability or item Ignore X Protection when dealing Health damage.
-
-## Protection X 
-
-this ability or item grants you additional X Protection.
-
-## Clense X
-
-this ability or item removes causes the target to remove X status condition.
-
-## Group
-
-you and your companions must use two hands to opperate this item. if it is an activity you perform this activity together.
-
-# Weapon Tags 
-
-## Recoil X
-
-after attacking with this weapon, You must spend X Stamina on actions without
-the Damage tag or you automatically fail to hit targets with this weapon. 
-
-## Mechanical
-
-Mechanical items are complex requiring more time to craft or repair, ignore the
-first DR of Progess you make when you Craft or Repair the item.
-
-## Swift
-all Attack actions with this weapon costs 1 less Stamina.
-
-## Slow 
-all Attack actions with this weapon cost 1 additional Stamina.
-
-
-## Burst X
-
-this weapon shoots X bullets per Attack. you can shoot half as many bullets (rounded up) to deal half the Damage specified on the weapon.
-
-## Ammo X
-
-this weapon can hold X maximum Ammunition. after each
-attack reduce the number of Ammunition by the weapon's Burst, if you reduce your Magazine to 0
-you must reload your weapon.
-
-## Dislodge
-
-you must spend 1 Stamina to dislodge ammunition out of the weapon after each attack. 
-
-## Quickload
-
-you do not need to spend Stamina to reload this weapon.
-
-## Destructive
-
-Destructive Weapons deal Double damage to Objects and Structure.
-
-## Ricochet
-
-Ricochet Weapons are Ranged weapons that fire projectiles that bounce off of
-walls. Ricochet weapons do not damage walls.
-
-# Armour Tags 
-
-## Restricting
-
-You spend 1 additional Stamina when you interact with objects.
-
-## Natural
-
-You cannot remove this armour.
-
-## Strider
-
-you can move once for free without expending Stamina.
-
-# Ability Tags 
-
-## Scavenge
-
-this ability finds crafting Resourse. Scavenge abilities always find at least 1
-crafting Resource.
-
-## Alter X
-this ability alters an existing ablility. the alteration is described in the text.
-
-## Research
-
-this abiliy gathers information. Reseach abilities cost 3 Stamina in Combat mode. 
-
-## Debility
-
-this action causes a target suffer penalties. the target can suffer multiple Debilities
-at once keep the highest Debility if they affect the same statistics.
-
-## Enhancement
-
-this action grants a target bonuses. creatures can only be affected by 3
-Enhancment of its choice at a time. 
-
-## Hostile
-
-this action is treated as a hostile action and can trigger combat if used in Investigation mode.
-
-## Defensive X 
-
-this action generates X Stamina until the start of your next turn. if used on
-your turn, you end your turn. 
-
-## Recovery
-
-the action recovers from conditions or regains Resources.
-
-# Item Tags 
-
-## Augment-slot X
-
-this item uses X augmentation slots to equip.
-
-## Charges X
-
-you can use this item X times before before needing to recharge or remake the item.
-
-## Prestige 
-
-This item is only used by people of high social status. 
-
-## One-Handed
-
-you are required to use at least 1 hand to use this item.
-
-## Two-handed
-
-you are required to use two hands to use this item.
-
-
-## Thrown
-
-you can throw this item without much effort.
-
-## Concealed
-
-you can hide this easily on your character.
-
-## Light 
-
-this item take up 1 Inventory slots. 
-
-## Cumbersome 
-
-this item take up 3 Inventory slots.
-
-## Magical
-
-the item can be used to channel Mana.
-
-# Spell Tags
-
-## Power X
-
-this Spell can only be cast with X Power or more.
