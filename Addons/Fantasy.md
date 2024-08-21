@@ -167,19 +167,17 @@ below you will find a list of all combat abilities sorted by type.
 
 **Magic Outburts**
 
-Tags: Hostile; Stamina 1; Damage 8; Enhancment; Debility; Progress 5;
+Tags: Hostile; Stamina 3; Debility; XP 5;
 
-You Overcharge your magic causing your spells be stronger. You can Cause the
-next Spell deal additional damage or apply a status condition with 2 Severity.
-The sudden outburst leaves you lifeforce tainted preventing your from Healing
-Wounds for 1 Day.
+You Overcharge your magic causing your spells be stronger.
 
 **Magus Esoterica**
 
-Tags: Stamina 1; Range 20; Research; Progress 4;
+Tags: Range Near; Research; XP 4;
 
-You assertain the magical quantities of a creature or object. You learn if it
-can cast Spells, if it has Magical Weakness or Magical Resistance.
+Target a Creature or object. You assertain the magical quantities of a creature
+or object. You learn if it is has any Magical Properties, if it can cast Spells, if
+it has any Magical Weakness or Magical Resistance.
 
 ### Physical
 
@@ -239,7 +237,7 @@ this section outlines definitions and rules for Magic.
 
 ## Spells
 
-a spell is a manifistation of magic. 
+a spell is a manifistation of magic.
 
 ### Aquiring spells
 
