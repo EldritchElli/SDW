@@ -1,6 +1,7 @@
 
 # Core Definitions
 
+
 ## Characters
 
 Characters are sentient creatures controlled by Players that are not summoned
