@@ -93,3 +93,9 @@ claims are desputed by some.
 
 Repaireable items have an upkeep cost to maintain them.
 
+### Weapons
+
+### Armour
+
+### Tools
+

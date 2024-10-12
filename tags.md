@@ -24,12 +24,6 @@ if this tag is beside an Encounter, you gain X experience.
 
 you spend X Hours to complete the activity.
 
-### Stamina X
-
-to perform this action, Reduce your Combat Skill Rank by X until the start of
-your next turn. using multiple actions with this Tag further reduces your
-Combat Skill Rank.
-
 ## Interaction Tags
 
 ### Check X
@@ -80,11 +74,7 @@ below are a list of all the basic tags.
 
 ### Range X
 
-Target a creature, a object, or a space within an aproximate distance.
-
-Adjacent: directly beside.
-Near: the distance you can throw a bulky stone.
-Far: anywhere you can see.
+Target a creature, a object, or a space within X metres.
 
 ### Clense X
 
@@ -92,27 +82,52 @@ remove the X status condition from a target.
 
 ## Combat Focused Tags
 
+### Reaction X
+you spend  X Reactions to use this in combat mode.
+
+### Action X
+
+you spend X actions to use this in combat mode.
+
+### Heal X
+
+Increase a targets current Health by X.
+
+### Hurt X
+
+Reduce a targets current Health by X.
+
+### Stagger X
+
+Reduce a targets Poise by X.
+
 ### Protection X
 
-Reduce Damage recieved by the target by X.
+Reduce Damage recieved by the target by X. Multiple sources of this Tag stack
+cumulatively.
 
-### Move
+### Move X
 
-you are displace from your current position, the length and direction is
+you are displace X metres from your current position, the direction is
 specified by the text.
 
-### Shove
+### Shove X
 
-you move a creature or object from its current position, the length and
+you move a creature or object X metres from its current position, the length and
 direction is specified by the text.
 
 ### Sunder X
 
 Reduces the target's Protection by X.
 
-### Piercing X
+### Piercing
 
-Ignore X Protection when dealing damage.
+Ignore Protection when dealing damage.
+
+### End
+
+this Tag Ends your turn early, you cannot perform actions after using a feature
+with this tag.
 
 ## Item Tags
 
@@ -132,41 +147,49 @@ you can throw this item without much effort.
 
 you can hide this item easily on your character.
 
-### Weightless
-
-this item doesn't take up Inventory slots.
-
-### Light
+### Compact
 
 this item take up 1 Inventory slots.
 
-### Cumbersome
+### Bulky
 
 this item take up 3 Inventory slots.
 
-### Consumables
+### Consumable
 
 this item is destroyed upon use.
 
-### Charges X
+### Charge X
 
-you can use this item X times before before needing to recharge or repairing the item.
+you can use this item X times before before needing to recharge or repairing
+the item.
 
-### Worn
+### Equipment
 
-This item can be worn on yourself. It takes up 1 less Inventory when you are wearing it.
+This item can be worn on yourself. It takes up 1 less Inventory when you are
+wearing it.
 
 ## Ability Tags
 
-### Scavenge X Y
+### Conditional X
 
-you gain Y crafting Resource from the X scavenge table.
+this Tag specifies that X only happens when a certain conditon is met.
+
+### Require X
+
+This Tag specifies that X is required to use or perform this item, action,
+activity or ability.
 
 ### Alter X
 
-this ability Changes or replaces the Text's body of X. you are required to have
-X before gaining any benefit from the alteration. The alteration is described
-in the text's Body.
+this feature, item or ability Changes X, it shares the same Tags as X unless
+they are overwritten by its own Tags. Additional alterations are described in
+in it's text.
+
+### Ignore X
+
+Ignore Specifies another Tag X, Treat the feature as if X wasn't on it. Ignore
+is typically used in tandom with Alter to remove Tags on an existing feature.
 
 ### Debility
 
@@ -180,68 +203,116 @@ Grant a target a positive Effect. the Effect is specified by the Text's body.
 ### Hostile
 
 this action is treated as a hostile action and can trigger combat if used in
-Investigation mode. Make a Combat Check, The text's body determines the score
-needed, the effect on a failure and the effect on a success.
+Investigation mode.
+
+### Downtime
+
+This action or ablilty can only be used in Downtime mode.
 
 ### Investigation
 
 This action or ablilty can only be used in Investigation mode.
 
+## Category Tags
+
+Category Tags are used to encompass various mechanics that have similar
+properties.
+
+### Stance
+
+Stances are special forms of combat that allow the user to  use Maneuvers.
+Using this ability changes your basic combat features as described in the text.
+You can choose to leave a Stance as by spending an Action otherwise you remain
+in the Stance until your Poise is reduced to 0 or until you change to a
+Different Stance.
+
+### Maneuver
+
+Maneuvers are special moves that are only availible in a specific stance
+specified in the text.
+
+### Flameable
+
+Easily destroyed by when heat is applied.
+
+### Fire
+
+Interacts with Flameable objects, cause Fleeing 1 on Instinctual Creatures.
+
+### Toxic
+
+if a creature has Sickened before being subjected to the effects of this tag,
+increase that Sickened tag by 1. this tag has it has no effect on targets with
+the Construct tag.
+
 ## Status Effects Tags
 
 below is a list of Status effects that are used in the tabletop game.
 
-### Hurting X
-
-you are set ablaze and take damage at the end of your turn.
-
-### Weakened X
-
-You have been subject to a poisonous or venomous substance. reduce your Psyche, Finesse and
-Resiliance by X rank.
-
 ### Marked X
 
-You have been marked, hostile creatures will attack you more often for X turns or units of time.
+Increase the effectivness of certain abilities by X when used against you.
 
-### Disarm X
+### Magebane X
 
-Reduce the damage a Weapon deals by X. The Weapon falls to the ground when it Deals 0 Damage.
+Reduce the Hurt tag on your Spells by X for all attacks.
+
+### Disarmed X
+
+Reduce the Hurt tag on your Weapons by X for all attacks.
+
+### Slowed X
+
+Reduce the Move tag on abilities by X.
+
+### Quickened X
+
+Increase the Move tag on abilities by X.
+
+### Hungry X
+
+You are hungry, you cannot regain health you must consume X food to remove this
+condition.
+
+### Impaired X
+
+You reduce the number of dice you roll on Checks that target creatures or objects by X.
 
 ### Stunned X
 
-You become unable to act for X turns.
+you reduce your Poise by X.
 
-### Slowed
+### Sickened X
 
-All Move tags have reduced effectiveness, reduce the Range you can move by 1 Step (Far becomes Near, Near becomes Adjacent).
+Reduce your Maximum and Current Health by X.
 
-### Hungry
+### Hindered X
 
-You are hungry, you reduce your Stamina by 5;
+Reduce your Agility by X Ranks.
 
-### Unconcious
+### Thinblood X
 
-You fall down to the ground unable to perform actions.
+Reduce your Vitality by X Ranks.
 
-### Blinded
+### Dissonance X
 
-You cannot see anything, you cannot target anything other than yourself.
+Reduce your Attunement by X Ranks.
 
-### Obscured
+### Drained X
 
-you are hard to see targets cannot attack you directly.
+Reduce your Capacity by X Ranks.
 
-### Distracted
+### Weakened X
 
-You are distracted, you do not benefit from Protection, reduce your protection to 0.
+Reduce your Strength by X Ranks.
 
-### Cursed X
+### Exhausted X
 
-you have been cursed and weakened severially, Reduce your Maximum Stamina by X
-to a minimum of 1.
+you must sleep for 8 hours to remove 1 Exhausted stack. you cannot perform
+abilities that take 6 - X  or more actions to perform.
 
-### Exhausted
+### Fleeing X
 
-You are beyond tired you unable to regain Stamina or Stress so long as you ar Exhausted.
+you must spend an action to move X spaces in a straight line away from whatever
+has applied this condition to you.
 

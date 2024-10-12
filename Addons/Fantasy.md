@@ -165,11 +165,11 @@ below you will find a list of all combat abilities sorted by type.
 
 ### Magic
 
-**Magic Outburts**
+**Alcor's Overcharge**
 
-Tags: Hostile; Stamina 3; Debility; XP 5;
+Tags: Hostile; Enchancement; XP 5;
 
-You Overcharge your magic causing your spells be stronger.
+You use the improved version of the next spell you cast.
 
 **Magus Esoterica**
 
@@ -180,13 +180,6 @@ or object. You learn if it is has any Magical Properties, if it can cast Spells,
 it has any Magical Weakness or Magical Resistance.
 
 ### Physical
-
-**Rage**
-
-Tags: Hostile; Stamina 1; Duration 6 Turns; Damage 4; Enhancment; Debility; Progress 5;
-
-You launch into a Battle fury, at the cost of your Psyche; reduce your Psyche
-by 1. You Deal additional Damage with Melee and Thrown Weapons.
 
 **Preditor**
 
@@ -202,22 +195,6 @@ Tag: Stamina 1; Range 30; Duration 1 Minute; Suffer Marked Duration; Debility; P
 
 You take upon yourself the burdens of another, remove Marked from a Creature
 within range, you make yourself a target for a time.
-
-**Reconstitution Rage**
-
-Tags: Hostile; End; Debility; Enhancment; Progress 5;
-
-Requires: Rage
-
-You can only use this ability when you are under the effects of Rage, you
-cancel Rage and reconstitute your regain 5 Stamina.
-
-**Twinned**
-
-Tags: Stamina 3; Hostile; Debility; Progress 5;
-
-You hasten movements for a brief moment allowing you to perform an attack
-twice. Attack a target with Weapon Twice.
 
 
 # Modes Rules

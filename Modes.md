@@ -70,6 +70,24 @@ people to roll checks and damage if nessisary.
 
 Below is a list of commonly used actions in combat mode.
 
+**Light Attack**
+
+Tags: Action 1; Hostile; Range Weapon; Hurt Weapon;
+
+Light attacks are faster to perform light attacks typically do not reduce
+Structure
+
+**Heavy Attack**
+
+Tags: Action 1; Hostile; Range Weapon; Debility; Hurt Weapon; Stagger Weapon;
+
+Make a powerful attack against a target and reduce your Structure by 1.
+
+**Charged Attack**
+
+Tags: Action 2; Hostile; Range Weapon; Hurt Weapon; Stagger Weapon;
+
+
 **Improvise**
 
 Tags: Stamina Varies; Roleplay;
@@ -93,6 +111,13 @@ Tags: Stamina 1; Range Near; Move; Enhancement;
 
 you move yourself in any direction without making a sound.
 
+**Dodge**
+
+Tags: Actions 1; Protection 3; Range Adjacent; Move;
+
+move to a space Adjacent to you, gain Protection until the start of your next
+turn.
+
 **Jog**
 
 Tags: Range Near; Move;
@@ -101,7 +126,7 @@ you move yourself in any direction.
 
 **Take cover**
 
-Tags: Protection 1d12;
+Tags: Protection 5;
 
 **Throw object**
 
@@ -223,7 +248,6 @@ if there is a Vendor, Roleplay out an interaction of you Trading goods;
 
 Tags: Check Science; Hours 4;
 
-You Craft 1 Item,
-
-You repair 1 Item, use up one Smithingstone of the appropriate Rank.
+You craft or repair one Item, crafting and repairing consumes resources
+specified on the Items block.
 
