@@ -51,7 +51,7 @@ The whole party must contribute to this activity for it to be finished.
 ### Loud
 
 Makes a lot of noise attracting attention to a location specified in the text
-on use. if you are within Near range you become Deafened.
+on use. if you are within within Range 5 you become Deafened.
 
 ### Silent
 
@@ -80,11 +80,8 @@ below are a list of all the basic tags.
 
 ### Range X
 
-Target a creature, a object, or a space within an aproximate distance.
+Target a creature, a object, or a space within X metres.
 
-Adjacent: directly beside.
-Near: the distance you can throw a bulky stone.
-Far: anywhere you can see.
 
 ### Clense X
 
