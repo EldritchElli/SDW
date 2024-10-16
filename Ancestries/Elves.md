@@ -6,12 +6,9 @@ them stand vertically at the cost of mobility. Elves take on features or local
 wildlife and adapt this typically makes them resemble vegetation, fungi and
 animals. Elves tend to live in wetlands, forests and mountainous areas.
 
-**Ancestry Bonuses**
-
-Maximum Health: 4
-
-Life Span: 120 years
-
+**Info**
+Average Life Span: 120 years
+Height: 30-50 cm, 145-160 when standing.
 
 **Crawling**
 
@@ -20,9 +17,6 @@ Tags: Alter Jog; Move 6;
 you drop prone then You move; if you end your movement behind cover or in
 foliage, you become hidden until the start of your next turn.
 
-**Am-Bush**
-
-Tags: Action 1; Hidden;
 
 ## Lineages
 ### Sporeling
@@ -33,9 +27,6 @@ Sporelings tend to be larger than leaflings, Sporelings grow fungi colonies on
 their bodies to detract preditors and assimulate with the enviorment.
 
 **Lineage Bonuses**
-
-Health: 2;
-
 
 **Toxic Mist**
 
@@ -88,7 +79,19 @@ Drain the life essence from a creatre, healing yourself in the process.
 
 ### leafling
 
+**Lineage Differenciation**
 
+Leaflings tend to be small, roughly the size of a adolecent wolf. while
+leaflings have claws they are rather short and function similarly to nails on
+humans.
+
+**Lineage Bonuses**
+
+Health: 2;
+
+**Am-Bush**
+
+Tags: Action 1; Hidden;
 
 
 ### Wildling
