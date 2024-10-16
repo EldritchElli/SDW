@@ -45,7 +45,7 @@ The whole party must contribute to this activity for it to be finished.
 ### Loud
 
 Makes a lot of noise attracting attention to a location specified in the text
-on use. if you are within Near range you become Deafened.
+on use. if you are within within Range 5 you become Deafened.
 
 ### Silent
 
